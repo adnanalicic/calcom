@@ -65,9 +65,7 @@ jobs:
         uses: docker/metadata-action@v4
         with:
           images: |
-            docker.io/calendso/calendso
-            docker.io/calcom/cal.com
-            ghcr.io/calcom/cal.com
+            docker.io/adnanalicic/calcom
 
       - name: Copy env
         run: |
