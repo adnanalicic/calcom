@@ -1,4 +1,4 @@
 [submodule "calcom"]
 	path = calcom
 	url = https://github.com/Onlineberatung/cal.com
-	branch = main
+	branch = vi-patch-2.6.6
